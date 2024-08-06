@@ -20,19 +20,19 @@ explanation of images attached below:
 
 7-> Shows the created alarm on the metric.
 
-    ![Screenshot (187)](https://github.com/user-attachments/assets/5338849c-a633-4a3c-8c12-661dc77f3c7e)
+![Screenshot (187)](https://github.com/user-attachments/assets/5338849c-a633-4a3c-8c12-661dc77f3c7e)
 
-    ![Screenshot (182)](https://github.com/user-attachments/assets/eac2f21e-e81c-4f8d-8de2-18c7cb9ab0ad)
+![Screenshot (182)](https://github.com/user-attachments/assets/eac2f21e-e81c-4f8d-8de2-18c7cb9ab0ad)
    
-    ![Screenshot (183)](https://github.com/user-attachments/assets/1dbc9889-bae4-442a-ba0d-b486db592312)
+![Screenshot (183)](https://github.com/user-attachments/assets/1dbc9889-bae4-442a-ba0d-b486db592312)
 
-    ![Screenshot (184)](https://github.com/user-attachments/assets/9304869a-1bd6-4dac-9e6e-db48f1e426a4)
+![Screenshot (184)](https://github.com/user-attachments/assets/9304869a-1bd6-4dac-9e6e-db48f1e426a4)
 
-    ![Screenshot (185)](https://github.com/user-attachments/assets/d9226f34-549c-4551-9383-9e1664c45985)
+![Screenshot (185)](https://github.com/user-attachments/assets/d9226f34-549c-4551-9383-9e1664c45985)
 
-    ![Screenshot (186)](https://github.com/user-attachments/assets/26ca1a75-5ff3-4147-8855-771f12afaa5f)
+![Screenshot (186)](https://github.com/user-attachments/assets/26ca1a75-5ff3-4147-8855-771f12afaa5f)
 
-    ![Screenshot (188)](https://github.com/user-attachments/assets/75ff3aef-6a9f-498a-8346-df74aef98272)
+![Screenshot (188)](https://github.com/user-attachments/assets/75ff3aef-6a9f-498a-8346-df74aef98272)
 
 
 
